@@ -4,9 +4,14 @@
 [Portfolio Link](https://example.com)
 
 ## 🤔 - About Me
-- 🔭 Étudiante en Licence informatique à Avignon.
-- J'adore me lancer dans de nouveaux projets et découvrir l'immense monde du développement !
-- Je code sur les logiciels Jetbrain et Visual Studio Code. De plus, je maîtrise Photoshop, Premiere Pro et les logiciels bureautiques de base (Excel, Word, Notion, etc.).
+- 💫 Curieuse, passionnée, toujours prête à apprendre !  
+- ✨Je suis Malek, étudiante en Licence Informatique à l’Université d’Avignon.  
+- J’aime transformer des idées en projets concrets grâce au code, allier logique et créativité, et explorer sans cesse de nouveaux outils.  
+
+- 💻 Du C au PHP, du back au front, je prends plaisir à comprendre comment tout fonctionne et parce que le visuel compte autant que le fonctionnel, je manie aussi bien Photoshop, Premiere Pro que Figma.
+
+🚀 Mon objectif ? Créer, innover, et ne jamais cesser d’évoluer dans le monde du développement.
+
 
 ## 🌐 Socials  
 
