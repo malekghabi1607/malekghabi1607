@@ -1,6 +1,6 @@
 # GitHub Profile
 
-### [Portfolio link](http://portfoliomalekghabi.com)
+### [Portfolio link](https://www.portfoliomalekghabi.com)
 
 ## 🤔 - About Me
 - 💫 Curieuse, passionnée, toujours prête à apprendre !  
