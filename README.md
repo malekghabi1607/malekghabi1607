@@ -1,28 +1,26 @@
-# GitHub Profile
+# 👩‍💻 Malek Ghabi  
 
-### [Portfolio link](https://www.portfoliomalekghabi.com)
+🎯 **Étudiante en Licence Informatique (Université d’Avignon)** & **Bachelor en Sciences Informatiques (Université de Genève)**  
+🔎 Actuellement en recherche de stage (Développement / Systèmes / Data)  
+📍 Basée en France – Mobilité France/Suisse  
 
-## 🤔 - About Me
-- 💫 Curieuse, passionnée, toujours prête à apprendre !  
-- ✨Je suis Malek, étudiante en Licence Informatique à l’Université d’Avignon.  
-- J’aime transformer des idées en projets concrets grâce au code, allier logique et créativité, et explorer sans cesse de nouveaux outils.  
+---
 
-- 💻 Du C au PHP, du back au front, je prends plaisir à comprendre comment tout fonctionne et parce que le visuel compte autant que le fonctionnel, je manie aussi bien Photoshop, Premiere Pro que Figma.
+## 🤔 À propos de moi  
+- 💡 Curieuse, motivée et toujours prête à apprendre.  
+- 🛠️ J’aime transformer des idées en projets concrets grâce au code, en alliant **logique** et **créativité**.  
+- 🎨 Du **C au PHP, du backend au frontend**, j’aime autant le côté technique que le visuel (Figma, Photoshop, Premiere Pro).  
+- 🚀 Objectif : **contribuer à des projets innovants** en développement, systèmes ou data, et évoluer continuellement dans ce domaine.  
 
-🚀 Mon objectif ? Créer, innover, et ne jamais cesser d’évoluer dans le monde du développement.
-
+---
 
 ## 🌐 Socials  
-
 <p align="center">
-  <a href="https://behance.net/Malek Ghabi"><img src="https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white" /></a>
-  <a href="https://discord.gg/maleekegh"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" /></a>
-  <a href="https://instagram.com/maleeeeke"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/malek-ghabi-3b32672a9"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
-  <a href="https://stackoverflow.com/users/Malek Ghabi"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" /></a>
-  <a href="https://codepen.io/malekghabi1607"><img src="https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white" /></a>
-  <a href="mailto:malekghabi129@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
-  <a href="https://t.me/MG1607"><img src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?logo=telegram&logoColor=white" /></a>
+  <a href="https://www.portfoliomalekghabi.com"><img src="https://img.shields.io/badge/🌐-Portfolio-black?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/malek-ghabi-3b32672a9"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:malekghabi.education@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://t.me/MG1607"><img src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://instagram.com/maleeeeke"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
 </p>
 
 ---
@@ -49,8 +47,8 @@
 
 ### 💾 - Database:
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
 
 
 ### 🧰 - Tools & Platforms:
@@ -61,7 +59,9 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 
 
