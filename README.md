@@ -4,7 +4,6 @@
 🔎 Actuellement en recherche de stage (Développement / Systèmes / Data)  
 📍 Basée en France – Mobilité France/Suisse  
 
----
 
 ## 🤔 À propos de moi  
 - 💡 Curieuse, motivée et toujours prête à apprendre.  
@@ -12,7 +11,7 @@
 - 🎨 Du **C au PHP, du backend au frontend**, j’aime autant le côté technique que le visuel (Figma, Photoshop, Premiere Pro).  
 - 🚀 Objectif : **contribuer à des projets innovants** en développement, systèmes ou data, et évoluer continuellement dans ce domaine.  
 
----
+
 
 ## 🌐 Socials  
 <p align="center">
@@ -23,7 +22,6 @@
   <a href="https://instagram.com/maleeeeke"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
 </p>
 
----
 
 
 ## 💻 - Tech Stack
@@ -88,8 +86,6 @@
 ![GitHub Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 
 
-
----
 
 # 📊 GitHub Stats  
 <p align="center">
