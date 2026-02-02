@@ -89,11 +89,11 @@
 
 # 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=malekghabi1607&show_icons=true&theme=holi&hide_border=false&count_private=true&cache_seconds=21600)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=malekghabi1607&show_icons=true&theme=holi&hide_border=false&count_private=true&cache_seconds=86400)
 
-![Streak](https://streak-stats.demolab.com?user=malekghabi1607&theme=holi&hide_border=false)
+![Streak](https://streak-stats.demolab.com?user=malekghabi1607&theme=holi&hide_border=false&cache_seconds=86400)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malekghabi1607&layout=compact&theme=holi&hide_border=false&cache_seconds=21600)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malekghabi1607&layout=compact&theme=holi&hide_border=false&cache_seconds=86400)
 
 ## 🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=malekghabi1607&theme=neon&no-frame=false&no-bg=false&margin-w=4)
