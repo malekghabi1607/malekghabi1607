@@ -86,12 +86,11 @@
 ![GitHub Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 
 
-
 # 📊 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=malekghabi1607&show_icons=true&theme=holi&hide_border=false&count_private=true&cache_seconds=86400)
 
-![Streak](https://streak-stats.demolab.com?user=malekghabi1607&theme=holi&hide_border=false&cache_seconds=86400)
+![Streak](https://streak-stats.demolab.com?user=malekghabi1607&theme=holi&hide_border=false)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malekghabi1607&layout=compact&theme=holi&hide_border=false&cache_seconds=86400)
 
