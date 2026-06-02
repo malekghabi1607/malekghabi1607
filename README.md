@@ -1,105 +1,240 @@
-# 👩‍💻 Malek Ghabi  
+# 👋 Malek Ghabi 
 
-🎯 **Étudiante en Licence Informatique (Université d’Avignon)** & **Bachelor en Sciences Informatiques (Université de Genève)**  
-🔎 Actuellement en recherche de stage (Développement / Systèmes / Data)  
-📍 Basée en France – Mobilité France/Suisse  
+## 🎯 À propos de moi
 
+Étudiante en Licence Informatique à l’Université d’Avignon et en Bachelor en Sciences Informatiques à l’Université de Genève.
+Actuellement en stage au CEA Marcoule, je participe au développement et à la maintenance d'applications Python destinées à l'automatisation et à la gestion de processus internes.
 
-## 🤔 À propos de moi  
-- 💡 Curieuse, motivée et toujours prête à apprendre.  
-- 🛠️ J’aime transformer des idées en projets concrets grâce au code, en alliant **logique** et **créativité**.  
-- 🎨 Du **C au PHP, du backend au frontend**, j’aime autant le côté technique que le visuel (Figma, Photoshop, Premiere Pro).  
-- 🚀 Objectif : **contribuer à des projets innovants** en développement, systèmes ou data, et évoluer continuellement dans ce domaine.  
+Passionnée par le développement logiciel, les technologies web et les systèmes d'information, je développe mes compétences à travers des projets académiques, personnels et professionnels.
+
+🔎 À la recherche d'une alternance à partir de septembre 2026.
 
 
+## 🛠️ Compétences Techniques
 
-## 🌐 Socials  
+### 👨‍💻 Langages de Programmation
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square\&logo=c\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square\&logo=php\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square\&logo=r\&logoColor=white)
+
+### 🌐 Développement Web
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square\&logo=react\&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square\&logo=flask\&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square\&logo=laravel\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square\&logo=springboot\&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square\&logo=bootstrap\&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square\&logo=tailwindcss\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square\&logo=jsonwebtokens\&logoColor=white)
+
+### 💾 Bases de Données
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square\&logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square\&logo=sqlite\&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square\&logo=supabase\&logoColor=white)
+
+### ☁️ DevOps & Outils
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square\&logo=gitlab\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square\&logo=githubactions\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square\&logo=visualstudiocode\&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=flat-square\&logo=intellijidea\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square\&logo=postman\&logoColor=white)
+
+### 📐 Génie Logiciel
+
+![UML](https://img.shields.io/badge/UML-FABD14?style=flat-square)
+![MVC](https://img.shields.io/badge/MVC-007ACC?style=flat-square)
+![Agile](https://img.shields.io/badge/Agile_Scrum-009688?style=flat-square)
+![Design Patterns](https://img.shields.io/badge/Design_Patterns-FF6B6B?style=flat-square)
+![Tests](https://img.shields.io/badge/Tests-25A162?style=flat-square)
+
+### 🎨 Design & UI/UX
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square\&logo=figma\&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square\&logo=canva\&logoColor=white)
+
+### 🤝 Compétences Professionnelles
+
+![Autonomie](https://img.shields.io/badge/Autonomie-4CAF50?style=flat-square)
+![Travail\_en\_équipe](https://img.shields.io/badge/Travail_en_équipe-2196F3?style=flat-square)
+![Rigueur](https://img.shields.io/badge/Rigueur-FF9800?style=flat-square)
+![Organisation](https://img.shields.io/badge/Organisation-9C27B0?style=flat-square)
+![Adaptabilité](https://img.shields.io/badge/Adaptabilité-607D8B?style=flat-square)
+![Curiosité](https://img.shields.io/badge/Curiosité-E91E63?style=flat-square)
+
+
+## 📊 Statistiques GitHub
 <p align="center">
-  <a href="https://malek-ghabi-portfolio.com"><img src="https://img.shields.io/badge/🌐-Portfolio-black?style=for-the-badge&logo=firefox&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/malek-ghabi-3b32672a9"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:malekghabi.education@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://t.me/MG1607"><img src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://instagram.com/maleeeeke"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+  <a href="https://github.com/malekghabi1607">
+    <img src="https://streak-stats.demolab.com/?user=malekghabi1607&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=malekghabi1607&color=blueviolet&style=flat-square&label=Visiteurs" alt="Profile views"/>
+</p> 
+
+---
+## 🏆 Projets Phares
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">⚛️ CADI Web</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
 </p>
 
-
-
-## 💻 - Tech Stack
-
-
-
-### 👨‍💻 - Languages:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-
-
-
-
-### 💾 - Database:
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
-
-### 🧰 - Tools & Platforms:
-![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![JetBrains](https://img.shields.io/badge/JetBrains-%23000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-
-
-### 🎨 - Design & Creativity:
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
-![Clip Studio Paint](https://img.shields.io/badge/ClipStudioPaint-%23CFD3D3.svg?style=for-the-badge&logo=ClipStudioPaint&logoColor=white)
-![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=for-the-badge&logo=Prezi&logoColor=white)
-
-
-
-### 🧠 - Others:
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
-![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=%23FF7139)
-![Airbnb](https://img.shields.io/badge/Airbnb-%23ff5a5f.svg?style=for-the-badge&logo=Airbnb&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![GitHub Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
-
-
-# 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=malekghabi1607&show_icons=true&theme=holi&hide_border=false&count_private=true&cache_seconds=86400)
-
-![Streak](https://streak-stats.demolab.com?user=malekghabi1607&theme=holi&hide_border=false)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malekghabi1607&layout=compact&theme=holi&hide_border=false&cache_seconds=86400)
-
-## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=malekghabi1607&theme=neon&no-frame=false&no-bg=false&margin-w=4)
-
-
-### 🔝 Top Contributed Repo  
 <p align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=malekghabi1607&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+<img src="https://img.shields.io/badge/Projet-CEA-blue?style=for-the-badge"/>
+</p>
+
+<p align="center">
+Application web interne développée pour l'INSTN / CEA permettant l'automatisation du traitement de fichiers Excel, la génération d'exports IRIS et la production de documents de synthèse.
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🎓 Aura Student Life OS</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/SaaS-success?style=for-the-badge"/>
+</p>
+
+<p align="center">
+Plateforme SaaS d'organisation de la vie étudiante intégrant la gestion financière, le suivi d'objectifs et un assistant intelligent.
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">🛒 Luna Perla</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/E--Commerce-FF5722?style=for-the-badge"/>
+</p>
+
+<p align="center">
+Site e-commerce avec interface client et Back Office de gestion des produits, commandes et utilisateurs.
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🎬 WithYou</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+<img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Temps_Réel-blueviolet?style=for-the-badge"/>
+</p>
+
+<p align="center">
+Plateforme collaborative de visionnage synchronisé en temps réel avec communication via WebSockets.
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">📊 EasyMonitor</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Monitoring-success?style=for-the-badge"/>
+</p>
+
+<p align="center">
+Outil de monitoring système avec collecte de données, détection d'alertes et tableau de bord web.
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">⚙️ MonCompilateur</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Lex/Flex-FF9800?style=flat-square"/>
+<img src="https://img.shields.io/badge/ASM_x86__64-607D8B?style=flat-square"/>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Compilateur-red?style=for-the-badge"/>
+</p>
+
+<p align="center">
+Mini-compilateur traduisant un langage Pascal simplifié vers l'assembleur x86_64 et générant un exécutable ELF.
+</p>
+
+</td>
+</tr>
+</table>
+
+## 📫 Me Contacter
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/malek-ghabi/"><img src="https://img.shields.io/badge/LinkedIn-Malek_Ghabi-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://malek-ghabi-portfolio.com/"><img src="https://img.shields.io/badge/Portfolio-En_ligne-FF5722?style=flat-square&logo=google-chrome&logoColor=white" /></a>
+  <a href="mailto:malekghabi.education@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  ⭐ Développé par <strong>Malek Ghabi</strong>
 </p>
 
