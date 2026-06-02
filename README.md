@@ -90,7 +90,7 @@ Passionnée par le développement logiciel, les technologies web et les système
 </p> 
 
 ---
-## 🏆 Projets Phares
+## 🏆 Projets
 
 <table>
 <tr>
