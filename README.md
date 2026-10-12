@@ -2,12 +2,14 @@
 
 ## 🎯 À propos de moi
 
-Étudiante en Licence Informatique à l’Université d’Avignon et en Bachelor en Sciences Informatiques à l’Université de Genève.
-Actuellement en stage au CEA Marcoule, je participe au développement et à la maintenance d'applications Python destinées à l'automatisation et à la gestion de processus internes.
+Diplômée d'une Licence Informatique à Avignon Université, je poursuis un **Master Informatique – Informatique appliquée et systèmes intelligents** à l'Université Catholique de Lille, **en alternance chez NOVOUTILS** en tant qu'apprentie Software & Data Engineer.
 
-Passionnée par le développement logiciel, les technologies web et les systèmes d'information, je développe mes compétences à travers des projets académiques, personnels et professionnels.
+Chez NOVOUTILS, je travaille sur la refonte d'une base de données connectée à l'ERP CEGID PMI, l'amélioration de tableaux de bord Power BI et la conception d'une application de gestion d'équipements de mesure.
+Auparavant, j'ai été stagiaire développeuse full-stack au CEA Marcoule, où j'ai développé CADI Web (React/TypeScript, Python/FastAPI).
 
-🔎 À la recherche d'une alternance à partir de septembre 2026.
+Passionnée par le développement logiciel, la data et l'intelligence artificielle, je conçois des solutions fiables, utiles et adaptées aux besoins métier.
+
+🌐 Portfolio : [malekghabi.netlify.app](https://malekghabi.netlify.app)
 
 
 ## 🛠️ Compétences Techniques
@@ -16,11 +18,13 @@ Passionnée par le développement logiciel, les technologies web et les système
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square\&logo=c\&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square\&logo=php\&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square\&logo=gnubash\&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square\&logo=r\&logoColor=white)
@@ -28,6 +32,7 @@ Passionnée par le développement logiciel, les technologies web et les système
 ### 🌐 Développement Web
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square\&logo=react\&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square\&logo=vite\&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square\&logo=flask\&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square\&logo=laravel\&logoColor=white)
@@ -36,6 +41,16 @@ Passionnée par le développement logiciel, les technologies web et les système
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square\&logo=tailwindcss\&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square\&logo=jsonwebtokens\&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square\&logo=socketdotio\&logoColor=white)
+
+### 📊 Data & Intelligence Artificielle
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square\&logo=numpy\&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square\&logo=scikitlearn\&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square\&logo=powerbi\&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square\&logo=microsoftexcel\&logoColor=white)
+![Q-Learning](https://img.shields.io/badge/Q--Learning-8E44AD?style=flat-square)
 
 ### 💾 Bases de Données
 
@@ -52,6 +67,7 @@ Passionnée par le développement logiciel, les technologies web et les système
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square\&logo=githubactions\&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square\&logo=netlify\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square\&logo=visualstudiocode\&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=flat-square\&logo=intellijidea\&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square\&logo=postman\&logoColor=white)
@@ -102,11 +118,12 @@ Passionnée par le développement logiciel, les technologies web et les système
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Projet-CEA-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Stage-CEA_Marcoule-blue?style=for-the-badge"/>
 </p>
 
 <p align="center">
@@ -140,22 +157,21 @@ Plateforme SaaS d'organisation de la vie étudiante intégrant la gestion financ
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">🛒 Luna Perla</h3>
+<h3 align="center">🐍 Snake IA</h3>
 
 <p align="center">
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Canvas-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/A*-8E44AD?style=flat-square"/>
+<img src="https://img.shields.io/badge/Q--Learning-8E44AD?style=flat-square"/>
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/E--Commerce-FF5722?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Hackathon_24h-IA-blueviolet?style=for-the-badge"/>
 </p>
 
 <p align="center">
-Site e-commerce avec interface client et Back Office de gestion des produits, commandes et utilisateurs.
+Version avancée du jeu Snake développée en 24 h : IA adaptative par apprentissage par renforcement (Q-Learning), recherche de chemin avec A* et comportements de groupe (Boïds).
 </p>
 
 </td>
@@ -167,7 +183,7 @@ Site e-commerce avec interface client et Back Office de gestion des produits, co
 <p align="center">
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
-<img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square"/>
+<img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
 </p>
 
@@ -176,7 +192,7 @@ Site e-commerce avec interface client et Back Office de gestion des produits, co
 </p>
 
 <p align="center">
-Plateforme collaborative de visionnage synchronisé en temps réel avec communication via WebSockets.
+Plateforme collaborative de visionnage synchronisé en temps réel (salons, chat, lecture vidéo synchronisée), développée en équipe de 5 — MVP en cours.
 </p>
 
 </td>
@@ -199,7 +215,51 @@ Plateforme collaborative de visionnage synchronisé en temps réel avec communic
 </p>
 
 <p align="center">
-Outil de monitoring système avec collecte de données, détection d'alertes et tableau de bord web.
+Outil de supervision système distribué : collecte de métriques sur plusieurs machines virtuelles, alertes automatiques et tableau de bord web.
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🔎 Moteur de Recherche</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/TF--IDF-607D8B?style=flat-square"/>
+<img src="https://img.shields.io/badge/Index_inversé-607D8B?style=flat-square"/>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Recherche_d'information-orange?style=for-the-badge"/>
+</p>
+
+<p align="center">
+Moteur de recherche simplifié : normalisation du texte, index inversé, pondération TF-IDF et classement par similarité cosinus.
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">🛒 Luna Perla</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/E--Commerce-FF5722?style=for-the-badge"/>
+</p>
+
+<p align="center">
+Site e-commerce avec interface client et Back Office de gestion des produits, commandes et utilisateurs.
 </p>
 
 </td>
@@ -226,15 +286,18 @@ Mini-compilateur traduisant un langage Pascal simplifié vers l'assembleur x86_6
 </tr>
 </table>
 
+<p align="center">
+  👉 Tous mes projets en détail sur mon <a href="https://malekghabi.netlify.app/#projets"><strong>portfolio</strong></a>
+</p>
+
 ## 📫 Me Contacter
 
 <p align="center">
   <a href="https://www.linkedin.com/in/malek-ghabi/"><img src="https://img.shields.io/badge/LinkedIn-Malek_Ghabi-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://malek-ghabi-portfolio.com/"><img src="https://img.shields.io/badge/Portfolio-En_ligne-FF5722?style=flat-square&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://malekghabi.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-En_ligne-FF5722?style=flat-square&logo=google-chrome&logoColor=white" /></a>
   <a href="mailto:malekghabi.education@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center">
   ⭐ Développé par <strong>Malek Ghabi</strong>
 </p>
-
